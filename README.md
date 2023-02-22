@@ -1,4 +1,4 @@
-# vietnamese-voice-dataset
+# Vietnamese Voice Dataset
 A Vietnamese voice dataset for text-to-speech (TTS) and automatic speech recognition (ASR) application
 
 ## Introduction
