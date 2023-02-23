@@ -3,7 +3,7 @@ A Vietnamese voice dataset for text-to-speech (TTS) and automatic speech recogni
 
 ## Introduction
 We present a Vietnamese voice dataset for text-to-speech (TTS) application. 
-The dataset contains 619 hours of speech data, which is recorded by a southern vietnamese female speaker. 
+The dataset contains 619 minutes (~10 hours) of speech data, which is recorded by a southern vietnamese female speaker. 
 This dataset is recorded in a controlled environment with professional recording tools. 
 The dataset is available for research purpose only.
 
