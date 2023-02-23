@@ -66,3 +66,6 @@ Here are some samples from the dataset:
 ## Application
 - To prove that this dataset is useful for TTS application, we have trained a TTS model using this dataset and create an app (baonoi.ai) using this model.
 - Sample generated audio: [g01.wav](https://drive.google.com/file/d/1CcyHCXoS5m9ILgBsWY-RZY52JNaZjjge/view?usp=share_link)
+
+## Download
+This download link of this dataset will be available soon.
