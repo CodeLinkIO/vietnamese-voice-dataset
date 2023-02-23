@@ -23,7 +23,7 @@ The dataset is organized in the following structure:
 │   │   ├── 000002.wav
 │   │   ├── 000003.wav
 ........
-│   ├── metadata.csv
+│   ├── metadata.json
 ```
 
 The metadata.json file contains the following information:
